@@ -1,0 +1,1 @@
+data.append([int(str(current_hour)+str(current_min)),inp])
